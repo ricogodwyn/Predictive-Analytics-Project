@@ -4,7 +4,7 @@
 
 Dalam era digital saat ini, pemasaran berbasis data telah menjadi strategi yang sangat efektif untuk meningkatkan penjualan dan mencapai target pasar. Dataset yang kami kembangkan mencakup variabel penting seperti anggaran promosi di TV, media sosial, dan radio, serta kolaborasi dengan berbagai jenis influencer (Mega, Macro, Nano, dan Micro), dan hasil penjualan. Dengan menggunakan dataset ini, saya bertujuan untuk mengembangkan algoritma machine learning yang dapat menganalisis hubungan antara pengeluaran promosi dan penjualan, dan dapat memprediksi sales bedasarkan promosi yang dilakukan.
 ## Business Understanding
-### Problem statement 
+### Problem statements 
 1.  Terdapat ketidakpastian mengenai saluran promosi mana yang memberikan dampak terbesar terhadap penjualan.
 2. Perusahaan kesulitan dalam menentukan jenis influencer yang paling sesuai untuk kampanye pemasaran mereka.
 3. Meskipun perusahaan telah menginvestasikan anggaran yang signifikan dalam promosi, terdapat tantangan dalam mengoptimalkan pengeluaran tersebut untuk mencapai hasil penjualan yang maksimal.
